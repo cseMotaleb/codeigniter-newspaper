@@ -1,0 +1,74 @@
+/*stylesheet-site-header.css*/
+@charset "utf-8";
+/* CSS Document */
+.wrapper{ max-width:990px; padding:0}
+.addSpace728x90{ width:100%; height:90px; display:inline-block; background:#CCC}
+.themeWhite{ background:#FFF}
+.themeBlack{ background:#1e1e1e}
+.themeGreen{ background:#016938}
+.themeLightGreen{ background:#008700}
+.clear{ clear:both}
+.icon{ background:url(http://ntv-bn-cdn.s3.amazonaws.com/images/ntvonline-icon.png) no-repeat}
+.left{ float:left}
+.right{ float:right}
+.space{ height:10px; width:100%}
+.header{}
+.header .topSpace{ height:20px}
+.header .topBar{ height:10px;}
+.userPanel{ position:relative; color:#fff}
+.userPanel .englishVersion{ border-left:0px solid #016938 }
+.userPanel .englishVersion span{ position:relative; display:inline-block; padding:0px 7px 0px 7px; margin:3px 5px 3px 5px; font-size:12px; color:#fff}
+.userPanel .englishVersion span:after{ border-color: transparent transparent transparent #016938; border-style:solid; border-width:10px; content:''; display:block; position:absolute; right:-20px; top:0px; z-index:1; position:absolute}
+.header .settingsIcon{ height:26px; width:26px; background-position:-486px 0px; display:inline-block}
+.header .userIcon{ height:26px; width:26px; background-position:-521px -1px; display:inline-block}
+.header .userPanel .signoutButton{ cursor:pointer}
+.header .userPanel .signoutButton a{ position:relative; display:inline-block; padding:0 10px; text-align:left; margin:3px 3px 3px 10px; background:#216f44; font-size:11px; color:#fff; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px}
+.header .userPanel .settingsButton a{ position:relative; display:inline-block; margin:3px 10px; font-size:20px; color:#aaa}
+.header .userPanel .welcomeCaption{ position:relative; display:inline-block; margin:3px 10px 3px 10px; font-size:12px; color:#ccc}
+.header .userPanel .welcomeUser{ position:relative; display:inline-block; background:#fff; margin:0px 3px 0px 10px; padding:3px; font-size:20px; color:#016938}
+.header .headerPanel{}
+.header .topLogo{ padding:10px 10px 10px 10px}
+.header .headerSearch{ color:#fff; border-radius:10px 0 0 10px; padding: 0px 0px 0px 10px; margin:10px 0px 10px 10px}
+.header .headerSearch input{ background:none; border:0px; color:#fff; padding:2px 2px 2px 2px; font-size:14px; width:220px}
+.header .searchIcon{ height:26px; width:30px; margin-top:0; background-position:-558px 0px; display:inline-block; cursor:pointer}
+.header .facebookIcon{ height:26px; width:26px; background-position:0px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .facebookIcon:hover{ background-position:0px -280px; opacity:1}
+.header .twitterIcon{ height:26px; width:26px; background-position:-36px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .twitterIcon:hover{ background-position:-36px -280px; opacity:1}
+.header .googlePlusIcon{ height:26px; width:26px; background-position:-72px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .googlePlusIcon:hover{ background-position:-72px -280px; opacity:1}
+.header .youtubeIcon{ height:26px; width:66px; background-position:-108px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .youtubeIcon:hover{ background-position:-108px -280px; opacity:1}
+.header .inIcon{ height:26px; width:26px; background-position:-180px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .inIcon:hover{ background-position:-180px -280px; opacity:1}
+.header .pinitIcon{ height:26px; width:26px; background-position:-216px -244px; border-radius:3px; margin:10px 10px 0px 0px; opacity:1; display:inline-block; cursor:pointer}
+.header .pinitIcon:hover{ background-position:-216px -280px; opacity:1}
+.header .dateDesc,.header .cur_cat_dis_img{ font-size:13px; color:#FFF; margin:40px 0px 10px 0px}
+.header .cur_cat_dis_img{ font-size:28px; margin:30px 30px 10px 20px }
+.header .home_page_social_img{ display:inline-block; margin:20px -10px 0px 20px }
+.header .top_srch_entry_type{
+	display:none; position:absolute; bottom:-15px; cursor:pointer; z-index:9999
+}
+.header .top_srch_entry_type > .bn_entry_type{
+	display: inline-block;
+	background: #333;
+	color: #fff;
+	width: 25px;
+	height: 25px;
+	padding-top: 3px;
+}
+.header .top_srch_entry_type > .bn_entry_type.active{
+	background:#CD0000
+}
+@media (max-width:640px){
+	.wrapper{
+		padding:0 15px
+	}
+	
+	.header .dateDesc,.header .cur_cat_dis_img{ font-size:14px; color:#FFF; margin:10px}
+	.header .cur_cat_dis_img{ font-size:28px; margin:10px }
+	.header .home_page_social_img{ display:inline-block; margin:10px -10px 10px 10px }
+}
+
+
+

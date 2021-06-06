@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-04-12 08:33:08 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-04-12 08:33:08 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-04-12 08:33:10 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-04-12 08:33:10 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-04-12 08:33:10 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-04-12 08:33:11 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-04-12 08:33:11 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-04-12 09:32:48 --> 404 Page Not Found: --/index
+ERROR - 2020-04-12 16:21:54 --> 404 Page Not Found: Uploads/news
+ERROR - 2020-04-12 23:34:35 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-04-12 23:34:35 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-04-12 23:34:37 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-04-12 23:34:37 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-04-12 23:34:37 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-04-12 23:34:37 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-04-12 23:34:38 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-04-12 23:34:38 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-04-12 23:34:38 --> 404 Page Not Found: 2015/wp-includes
+ERROR - 2020-04-12 23:34:38 --> 404 Page Not Found: 2016/wp-includes
+ERROR - 2020-04-12 23:34:38 --> 404 Page Not Found: 2017/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-04-12 23:34:39 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-04-12 23:34:40 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-04-12 23:34:40 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-04-12 23:34:40 --> 404 Page Not Found: Sito/wp-includes

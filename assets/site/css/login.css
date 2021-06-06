@@ -1,0 +1,46 @@
+/*login.css*/
+@charset "utf-8";
+#loginBg{ background:#000; opacity:0.7; position:fixed; display:none; left:0px; top:0px; z-index:9999999}
+
+#login{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; background:#F5F5F5; border:1px solid #c4c4c4; border-radius:5px; padding:30px 20px 30px 20px; width:450px; position:fixed; opacity:0; top:-250px; z-index:9999999}
+#login table td:first-child{ width:120px}
+#login table td:nth-child(2){ width:20px}
+#login .loginWith{ font-size:16px; color:#969696; margin:0px 0px 10px 0px; text-transform:uppercase}
+#login .or{ font-size:16px; color:#969696; margin:0px 0px 10px 0px; height:20px}
+#login .facebookLogInIcon{ width:30px; height:30px; display:inline-block; background-position:-144px -72px; margin:0px 5px 0px 0px; cursor:pointer}
+#login .googleLogInIcon{ width:30px; height:30px; display:inline-block; background-position:-216px -72px; margin:0px 5px 0px 0px; cursor:pointer}
+#login .twitterLogInIcon{ width:30px; height:30px; display:inline-block; background-position:-179px -72px; margin:0px 5px 0px 0px; cursor:pointer}
+
+#login #password{ margin:0px 0px 20px 0px}
+
+#login .forgetPassword{ float:left; color:#333; margin:60px 0px 0px 0px; font-size:13px}
+#login .signUp{ color:#333; font-size:13px}
+
+#login .signInPanel{}
+#login .signInPanel input{ width:100%; border-radius:2px; border:1px solid #969696; padding:5px; margin:0px 0px 5px 0px}
+#login .signInPanel .button{ background-color:#ff8627; color:#ffffff; padding:3px 7px 3px 7px; border:1px solid #e16d13; border-radius: 2px; transition:background-color 300ms linear 0s; font-size:13px}
+
+#loginCloseIcon{ width:16px; height:16px; display:inline-block; position:absolute; right:5px; top:5px; background-position:-470px 0px !important; margin:0px; padding:0px; cursor:pointer; z-index:9999}
+
+@media screen and (max-width: 640px)
+{
+#login{ width:85%; padding:10px}
+#login table td:first-child{ width:110px}
+#login table .or{ display:none}
+#login table td:nth-child(2){ max-width:300px}
+}
+
+.accountBg{ background:#000; opacity:0.7; position:fixed; display:none; left:0px; top:0px; z-index:99999999}
+
+.account{ font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; background:#F5F5F5; border:1px solid #c4c4c4; border-radius:0px 0px 5px 5px; padding:30px 20px 30px 20px; width:600px; position:fixed; opacity:0; top:-450px; z-index:99999999; display:none}
+
+.accountCloseIcon{ width:16px; height:16px; display:inline-block; position:absolute; right:5px; top:5px; background-position:-470px 0px !important; margin:0px; padding:0px; cursor:pointer; z-index:9999}
+
+@media screen and (max-width: 640px)
+{
+.account{ width:85%; padding:10px}
+.account table td:first-child{ width:110px}
+.account table .or{ display:none}
+.account table td:nth-child(2){ max-width:300px}
+}
+.settingsIcon{ cursor:pointer}

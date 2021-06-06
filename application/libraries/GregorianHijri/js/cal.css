@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+.font10px{
+font-size:10px;
+}
+.font12px{
+font-size:12px;
+}
+.black{
+color:#000000;
+}
+.red{
+color:#990000;
+}
+.red a{
+color:#990000;
+}
+.white{
+color:#FFFFFF;
+}
+.drakBlue{
+color:#000033;
+}
+.drakBlue a{
+color:#000033;
+}
+.grayBg{
+background:#fffff;
+}
+.lightgrayBg{
+background:#f3f3f3;
+}
+.gray{
+color:#8f8f8f;
+}
+.gray a{
+color:#8f8f8f;
+}
+.bold{
+font-weight:bold;
+}
+.tahoma{
+font-family:tahoma;
+}
+.next-button{
+background:url(../right-arrow.png);
+background-repeat:no-repeat;
+width:10px;
+height:10px;
+border:none;
+line-height: 1 !important;
+cursor: pointer;
+color:transparent;
+}
+.previous-button{
+background:url(../left-arrow.png);
+background-repeat:no-repeat;
+width:10px;
+height:10px;
+border:none;
+cursor: pointer;
+line-height: 1 !important;
+color:transparent;
+}
+.input-month{
+border:none;
+width:15px;
+text-align:center;
+height:15px;
+font-size:10px;
+background:none;
+color:#000000;
+}
+.input-year{
+border:none;
+width:35px;
+text-align:center;
+height:15px;
+font-size:10px;
+background:none;
+color:#000000;
+}
+.cel-calendar-border{
+border:1px solid #990000;
+}

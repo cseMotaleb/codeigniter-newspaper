@@ -1,0 +1,100 @@
+/*!
+ * Social Share Kit v1.0.7 (http://socialsharekit.com)
+ * Copyright 2015 Social Share Kit / Kaspars Sprogis.
+ * Licensed under Creative Commons Attribution-NonCommercial 3.0 license:
+ * https://github.com/darklow/social-share-kit/blob/master/LICENSE
+ * ---
+ */
+.ssk:before {
+    display: inline-block;
+    font-family: "social-share-kit" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.ssk-facebook:before {
+    content: "a";
+    text-indent: 4px;
+    margin-right: -4px
+}
+
+.ssk-twitter:before {
+    content: "b"
+}
+
+.ssk-google-plus:before {
+    content: "v"
+}
+
+.ssk-email:before {
+    content: "d";
+    top: -1px;
+    position: relative
+}
+
+.ssk-linkedin:before {
+    content: "g"
+}
+
+.ssk-youtube:before {
+    content: "x"
+}
+
+.ssk {
+    background-color: #757575;
+    color: white;
+    display: inline-block;
+    font-size: 22px;
+    line-height: 1px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .1s;
+    -webkit-transition: background-color .1s;
+    -moz-transition: background-color .1s;
+    -ms-transition: background-color .1s;
+    -o-transition: background-color .1s
+}
+
+.ssk:before, .ssk .glyphicon, .ssk .fa {
+    position: relative;
+    font-size: 22px;
+    top: 0;
+    vertical-align: middle
+}
+
+.ssk:last-child {
+    margin-right: 0
+}
+
+.ssk-group, .ssk-sticky {
+    font-size: 0
+}
+
+.ssk-facebook {
+    background-color: #255c95
+}
+
+.ssk-twitter {
+    background-color: #00b4e0
+}
+
+.ssk-google-plus {
+    background-color: #f1403a
+}
+
+.ssk-email {
+    background-color: #757575
+}
+
+.ssk-linkedin {
+    background-color: #1c87bd
+}

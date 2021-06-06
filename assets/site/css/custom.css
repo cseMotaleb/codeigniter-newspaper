@@ -1,0 +1,55 @@
+/*custom.css*/
+body {
+	background-color: #fff !important;
+}
+.hr-5 {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+.time-12 {
+	font-size: 16px;
+	color: #978f8d;
+}
+
+.slick-slider {
+	margin-bottom: 0;
+}
+
+.well {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 0;
+	padding-top: 10px;
+}
+
+#imaginary_container{
+	margin-top: 10px;
+	margin-right: -10px;
+}
+.stylish-input-group .input-group-addon{
+	background: white !important;
+}
+.stylish-input-group .form-control{
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color:#ccc;
+}
+.stylish-input-group button{
+	border:0;
+	background:transparent;
+}
+
+#mobile_header{
+	padding:10px;
+	background:#016938;
+	color:#fff
+}
+
+#footer {
+	background-color: #b7d0e4;
+	padding-bottom: 15px;
+}

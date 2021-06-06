@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-24 04:49:49 --> 404 Page Not Found: Env/index
+ERROR - 2020-08-24 05:02:03 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-08-24 05:02:03 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-08-24 05:02:04 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-08-24 05:02:05 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-08-24 05:02:06 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-08-24 05:02:06 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-08-24 05:02:06 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-08-24 08:49:09 --> 404 Page Not Found: Env/index
+ERROR - 2020-08-24 08:49:10 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2020-08-24 22:15:01 --> 404 Page Not Found: admin//index
+ERROR - 2020-08-24 22:15:05 --> 404 Page Not Found: admin/Adminphp/index
+ERROR - 2020-08-24 22:15:22 --> 404 Page Not Found: admin/Loginhtml/index
+ERROR - 2020-08-24 22:15:28 --> 404 Page Not Found: Loginhtml/index
+ERROR - 2020-08-24 22:15:30 --> 404 Page Not Found: Administratorhtml/index
+ERROR - 2020-08-24 22:15:32 --> 404 Page Not Found: Admin-area/login.php

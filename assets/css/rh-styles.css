@@ -1,0 +1,43 @@
+/*view > template.php*/
+.nav-tabs li a {
+    font-size: 20px !important;
+}
+
+.c-background {
+    background-color: #EEEEEE !important;
+    font-size: 16px;
+    color: #111;
+    line-height: 24px;
+    padding: 10px 0;
+}
+
+.w-background {
+    background-color: #ffffff !important;
+    font-size: 16px;
+    color: #111;
+    line-height: 24px;
+    padding: 10px 0;
+}
+
+.selected-cap > a {
+    font-size: 12px;
+}
+
+.container {
+    /*border-left: 0.25px solid #a8a8a8;*/
+    /*border-right: 0.25px solid #a8a8a8;*/
+}
+
+body {
+    background-color: #f2f0f1;
+}
+
+.nav-menu {
+    background: #008449;
+}
+/*end view > template.php*/
+
+
+div#news_content{
+     border: 1px solid red;
+}
